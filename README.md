@@ -27,6 +27,6 @@ __Cut and Paste__
 <kbd>Alt + D</kbd> : kill the text from cursor to the end of the current word.  
 <kbd>Ctrl + Y</kbd> : yank the text from the killing ring and insert it to the cusor position.  
 
-__Control and Process__
-<kbd>Ctrl + Z</kbd> : Suspends current command execution and moves it to the background
-<kbd>Ctrl + Q</kbd> : Resumes suspended command
+__Control and Process__     
+<kbd>Ctrl + Z</kbd> : Suspends current command execution and moves it to the background.     
+<kbd>Ctrl + Q</kbd> : Resumes suspended command. 
