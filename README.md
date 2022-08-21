@@ -10,6 +10,8 @@ __Cursor Movement__
 <kbd>Ctrl + B</kbd> : move cursor backward one character, same as <kbd>←</kbd>   
 <kbd>Alt + F</kbd> : move cursor forward one word.  
 <kbd>Alt + B</kbd> : move cursor backward one word.  
+<kbd>Ctrl + ] + character</kbd> : Moves the cursor forward to next occurrence of the typed character
+<kbd>Alt + Ctrl + ] + character</kbd> : Moves the cursor forward to previous occurrence of the typed character
 
 __Text Editing__  
 <kbd>Ctrl + D</kbd> : delete the character at cursor.  
@@ -24,3 +26,7 @@ __Cut and Paste__
 <kbd>Alt + Backspace</kbd> : kill text from cursor to the beginning of the current word.  
 <kbd>Alt + D</kbd> : kill the text from cursor to the end of the current word.  
 <kbd>Ctrl + Y</kbd> : yank the text from the killing ring and insert it to the cusor position.  
+
+__Control and Process__
+<kbd>Ctrl + Z</kbd> : Suspends current command execution and moves it to the background
+<kbd>Ctrl + Q</kbd> : Resumes suspended command
